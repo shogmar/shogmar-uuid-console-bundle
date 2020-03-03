@@ -1,5 +1,5 @@
 services:
     shogmar_first_commnd.create_uuid_command:
-        class: App\shogmar\UuidConsoleBundle\Command\CreateUuidCommand
+        class: Shogmar\UuidConsoleBundle\Command\CreateUuidCommand
         tags:
             - { name: console.command, command: shogmar:create-uuid}
