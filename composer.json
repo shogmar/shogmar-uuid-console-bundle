@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "shogmar\\UuidConsoleBundle\\": "src"
+            "Shogmar\\UuidConsoleBundle\\": "src"
         }
     },
     "minimum-stability": "dev"
